@@ -1,4 +1,4 @@
-Hello, World! 👋
+# Hello, World! 👋
 
 Welcome to my GitHub profile! I'm Saanya Khanna, a budding enthusiast in the realm of Business Computer Information Systems with a keen interest in data engineering. Let me share a bit about my coding journey.
 
@@ -17,4 +17,4 @@ With only a couple of projects under my belt, I'm actively pursuing opportunitie
 # Let's Connect!
 Thank you for stopping by! If you have advice, or resources, or just want to connect, I'd love to hear from you. Let's grow and learn together in the vast and fascinating world of data and technology.
 
-Happy coding! 🚀
+# Happy coding! 🚀
