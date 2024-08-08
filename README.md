@@ -1,5 +1,5 @@
 # Hello, World! 👋
-Hi there! I'm Saanya Khanna, an aspiring Information Systems professional with a passion for data analysis, market research, and lead generation. Currently based in Arlington, Texas, I'm pursuing my Bachelor of Science in Information Systems at the University of Texas, Arlington.
+Hi there! I'm Saanya Khanna, an aspiring Information Systems professional with a passion for data analysis, market research, and lead generation. 
 
 # 🌟 About Me
 
