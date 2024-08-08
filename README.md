@@ -1,20 +1,23 @@
 # Hello, World! 👋
+Hi there! I'm Saanya Khanna, an aspiring Information Systems professional with a passion for data analysis, market research, and lead generation. Currently based in Arlington, Texas, I'm pursuing my Bachelor of Science in Information Systems at the University of Texas, Arlington.
 
-Welcome to my GitHub profile! I'm Saanya Khanna, a budding enthusiast in the realm of Business Computer Information Systems with a keen interest in data engineering. Let me share a bit about my coding journey.
+🌟 About Me
+My journey into the tech world began in high school, and I've since developed a keen interest in how data can drive business decisions. With hands-on experience in market research, data entry, and project management, I'm constantly looking to expand my technical skills and contribute to impactful projects.
 
-# About Me
-I'm a motivated and detail-oriented student currently pursuing a degree in Business Computer Information Systems at the University of North Texas. My journey into the world of coding began with curiosity in High School, and since then, I've been exploring the exciting intersection of technology and business.
+💻 Current Focus
+Right now, I’m diving deep into data engineering and data analysis, with a particular focus on Python and SQL. My recent externships and internships have allowed me to apply these skills in real-world scenarios, from analyzing AI risks to managing lead generation processes. I’m also working towards a certification in data engineering to further solidify my technical expertise.
 
-# Current Focus
-Currently, I'm diving into the world of data engineering with an associate-level certification. Although my coding experience is in its early stages, I bring a strong analytical mindset, design thinking, and a growing proficiency in Python and SQL to the table.
+🚀 GitHub Projects
+GitHub is my playground for learning and growth. Here, you’ll find:
+- Python scripts that explore data visualization techniques.
+- SQL projects where I integrate and analyze datasets, such as factors influencing the U.S. housing market.
+- As I continue to grow, I plan to add more projects that reflect my journey in data engineering and beyond.
 
-# GitHub Presence
-GitHub serves as my learning ground, where you'll find a couple of Python and SQL projects and, as my skills evolve, more contributions in data engineering. I believe in the power of learning in public, and my repositories are a reflection of my commitment to continuous improvement.
+📚 Learning Journey
+I'm a firm believer in learning by doing, and GitHub reflects my commitment to continuous improvement. With a solid academic background and practical experience, I’m eager to tackle new challenges and explore innovative solutions in the data realm. My next goal is to dive deeper into data engineering and contribute to meaningful projects that make an impact.
 
-# Learning and Growing
-With only a couple of projects under my belt, I'm actively pursuing opportunities to enhance my coding skills. Currently working on an associate-level data engineering certification, I'm excited about the possibilities that data holds and the role I can play in shaping its narrative.
+🤝 Let’s Connect!
+Thank you for visiting my profile! Whether you have advice, resources, or just want to chat about all things data and tech, I’m always open to connecting with like-minded individuals. Let’s grow and innovate together in this ever-evolving field.
 
-# Let's Connect!
-Thank you for stopping by! If you have advice, or resources, or just want to connect, I'd love to hear from you. Let's grow and learn together in the vast and fascinating world of data and technology.
-
-# Happy coding! 🚀
+Happy Coding! 🚀
+This version is more concise, professional, and highlights your key strengths and current focus, making your GitHub profile more appealing to potential collaborators and employers.
