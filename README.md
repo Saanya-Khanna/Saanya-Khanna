@@ -1,29 +1,42 @@
-# Hello, World! 👋
-Hi there! I'm Saanya Khanna, an aspiring Information Systems professional with a passion for data analysis, market research, and lead generation. 
+Oh hi there!
 
-# 🌟 About Me
+I’m Saanya Khanna, an Information Systems student at the University of Texas at Arlington graduating in August 2026.
 
-My journey into the tech world began in high school, and I've since developed a keen interest in how data can drive business decisions. With hands-on experience in market research, data entry, and project management, I'm constantly looking to expand my technical skills and contribute to impactful projects.
+I built this GitHub to document what I’m learning, the projects I’m working on, and how my skills evolve over time. I enjoy exploring different areas of technology rather than staying in one lane, so you’ll find everything from Python applications and SQL analysis to systems design, low-code development, and automation.
 
-# 💻 Current Focus
+I’m especially interested in understanding how technology solves business problems. Whether it’s designing a system from scratch, analyzing data to uncover trends, or building an application that improves a process, I like seeing ideas turn into something people can actually use.
 
-Right now, I’m diving deep into data engineering and data analysis, with a particular focus on Python and SQL. My recent externships and internships have allowed me to apply these skills in real-world scenarios, from analyzing AI risks to managing lead generation processes. I’m also working towards a certification in data engineering to further solidify my technical expertise.
+# What you’ll find here
 
-# 🚀 GitHub Projects
+Most of my repositories started as a question, an assignment, or something I simply wanted to figure out. Along the way I’ve worked with:
 
-GitHub is my playground for learning and growth. Here, you’ll find:
-- Python scripts that explore data visualization techniques.
-- SQL projects where I integrate and analyze datasets, such as factors influencing the U.S. housing market.
-- As I continue to grow, I plan to add more projects that reflect my journey in data engineering and beyond.
+* Python
+* SQL
+* Streamlit
+* PowerShell
+* Git & GitHub
+* HTML/CSS
+* Glide
+* Miro
 
-# 📚 Learning Journey
+You’ll also see me experimenting with cloud technologies, enterprise platforms, and automation as I continue learning.
 
-I'm a firm believer in learning by doing, and GitHub reflects my commitment to continuous improvement. With a solid academic background and practical experience, I’m eager to tackle new challenges and explore innovative solutions in the data realm. My next goal is to dive deeper into data engineering and contribute to meaningful projects that make an impact.
+# Featured Projects
 
-# 🤝 Let’s Connect!
+DocTime
+A healthcare appointment scheduling application built with Python and Streamlit that simulates the patient and provider experience.
 
-Thank you for visiting my profile! Whether you have advice, resources, or just want to chat about all things data and tech, I’m always open to connecting with like-minded individuals. Let’s grow and innovate together in this ever-evolving field.
+U.S. Housing Market Analysis
+A SQL project exploring how economic indicators have influenced the U.S. housing market over nearly two decades.
 
-# Happy Coding! 🚀
+Campus Room Booking System
+A systems analysis project focused on translating business requirements into UML diagrams and process models.
 
-This version is more concise, professional, and highlights your key strengths and current focus, making your GitHub profile more appealing to potential collaborators and employers.
+Campus Event Hub
+A low-code application built with Glide that demonstrates relational database design through campus event management.
+
+There are plenty more ideas in the pipeline, so this portfolio will continue to grow as I do.
+
+# Thanks for stopping by
+
+If something here interests you, feel free to take a look around. I’m always learning, always building, and always looking for the next project that teaches me something new.
