@@ -29,10 +29,10 @@ A healthcare appointment scheduling application built with Python and Streamlit 
 **U.S. Housing Market Analysis**
 A SQL project exploring how economic indicators have influenced the U.S. housing market over nearly two decades.
 
-**Campus Room Booking System**
+**Campus Room Booking System**(getting updated)
 A systems analysis project focused on translating business requirements into UML diagrams and process models.
 
-**Campus Event Hub**
+**Campus Event Hub**(getting updated)
 A low-code application built with Glide that demonstrates relational database design through campus event management.
 
 There are plenty more ideas in the pipeline, so this portfolio will continue to grow as I do.
