@@ -16,7 +16,6 @@ Most of my repositories started as a question, an assignment, or something I sim
 * PowerShell
 * Git & GitHub
 * HTML/CSS
-* Glide
 * Miro
 
 You’ll also see me experimenting with cloud technologies, enterprise platforms, and automation as I continue learning.
@@ -28,8 +27,6 @@ You’ll also see me experimenting with cloud technologies, enterprise platforms
 **U.S. Housing Market Analysis** - A SQL project exploring how economic indicators have influenced the U.S. housing market over nearly two decades.
 
 **Campus Room Booking System** (getting updated) - A systems analysis project focused on translating business requirements into UML diagrams and process models.
-
-**Campus Event Hub** (getting updated) - A low-code application built with Glide that demonstrates relational database design through campus event management.
 
 There are plenty more ideas in the pipeline, so this portfolio will continue to grow as I do.
 
